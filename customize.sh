@@ -34,6 +34,10 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/priv-app/FM2
+/system/lib
+/system/framework
+/system/etc/permissions
 "
 
 ##########################################################################################
@@ -41,7 +45,7 @@ REPLACE="
 ##########################################################################################
 
 set_permissions() {
-  : # Remove this if adding to this function
+
 
   # Note that all files/folders in magisk module directory have the $MODPATH prefix - keep this prefix on all of your files/folders
   # Some examples:
@@ -49,8 +53,10 @@ set_permissions() {
   # For directories (includes files in them):
   # set_perm_recursive  <dirname>                <owner> <group> <dirpermission> <filepermission> <contexts> (default: u:object_r:system_file:s0)
   
-  # set_perm_recursive $MODPATH/system/lib 0 0 0755 0644
-  # set_perm_recursive $MODPATH/system/vendor/lib/soundfx 0 0 0755 0644
+set_perm_recursive $MODPATH/system/lib 0 0 0755 0644
+set_perm_recursive $MODPATH/system/priv-app/FM2 0 0 0755 0644
+set_perm_recursive $MODPATH/system/framework 0 0 0755 0644
+set_perm_recursive $MODPATH/system/etc/permissions 0 0 0755 0644
 
   # For files (not in directories taken care of above)
   # set_perm  <filename>                         <owner> <group> <permission> <contexts> (default: u:object_r:system_file:s0)
