@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: .gitattributes
+SHA1-Digest: SKw0WMKyWo1XoYj5+4x7uSKnPSU=
+
+Name: system/fonts/RobotoCondensed-Light.ttf
+SHA1-Digest: 8uRZkFCwnOjN5Dvhkz/uaQ9Eui0=
+
+Name: system/fonts/Roboto-BlackItalic.ttf
+SHA1-Digest: HcM+Zuh0Vy1+Ce575xS8PcYgvVU=
+
+Name: system/fonts/Roboto-Thin.ttf
+SHA1-Digest: cJLsKgW3BdkfQrARFyBbEQePne8=
+
+Name: system/fonts/RobotoCondensed-Italic.ttf
+SHA1-Digest: DmuP/i9dRyUSowXZ3s9O9AJLRwE=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: system/fonts/Roboto-Light.ttf
+SHA1-Digest: MirZEfUE8xl4pOuhfxBmh8Lbvaw=
+
+Name: config.sh
+SHA1-Digest: GFNe9vhHkP+VLzqMYfkuQGsGuAc=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: system/fonts/Roboto-ThinItalic.ttf
+SHA1-Digest: NiKRDaXDtdfRijF6wGHA9190SI8=
+
+Name: system/fonts/Roboto-Medium.ttf
+SHA1-Digest: FnCxQnT7zmNpYoVB5YU8oRGQuD0=
+
+Name: system/fonts/RobotoCondensed-LightItalic.ttf
+SHA1-Digest: Sax4ze2qXR5jgft5QcydIc70tMg=
+
+Name: system/fonts/Roboto-Black.ttf
+SHA1-Digest: COFKZZj7eFU1eMXx9F3MSK2eV6o=
+
+Name: system/fonts/RobotoCondensed-Regular.ttf
+SHA1-Digest: P61UnBJjpk7itJsuIXV6ge5TjMA=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: JI97C8cW14Pf9ZyAiBmub0r6YO8=
+
+Name: system/fonts/Roboto-BoldItalic.ttf
+SHA1-Digest: e1cFQqrwKSP2NDy0mWfjqXPnPJ4=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: system/fonts/RobotoCondensed-BoldItalic.ttf
+SHA1-Digest: HftLphwdFGVzGcpuuDoh3PLnAuw=
+
+Name: system/fonts/Roboto-LightItalic.ttf
+SHA1-Digest: 86PB4YRlW5g1TCayUB85Jnw7GBE=
+
+Name: README.md
+SHA1-Digest: a0rSjHrbKYRO3NIRDgIFQqzhiwo=
+
+Name: system/fonts/Roboto-Italic.ttf
+SHA1-Digest: 6BC8HbRSUOV/r7CrEEhlSdG+sW8=
+
+Name: module.prop
+SHA1-Digest: 71eKBpPVzcJMnJbLYLr5t5Ukmiw=
+
+Name: system/fonts/Roboto-Bold.ttf
+SHA1-Digest: w3hKys6GmuolKPpXWRSb1E5VLQA=
+
+Name: system/fonts/Roboto-Regular.ttf
+SHA1-Digest: g2Oqm9GgO9OZnK5kRpgndKkuXrM=
+
+Name: system/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest: aiaDvRiESRViQPbaR9vzKCRzVKU=
+
+Name: system/fonts/RobotoCondensed-Bold.ttf
+SHA1-Digest: 0oxagheebXSWcd4BS23LTa68wXQ=
+

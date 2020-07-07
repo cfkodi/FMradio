@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=FMRadio
+name=FM Radio for Qualcdomm
+version=v1
+versionCode=1
+author=CFKODI
+description=FM Radio for Qualcdomm
+minMagisk=1500

@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: YREhYoPYL+e1TJ2dgWc/AEcN2/k=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: system/fonts/RobotoCondensed-Light.ttf
+SHA1-Digest-Manifest: mDuCBJPYaS1jiKICUPJqlilKy1I=
+
+Name: system/fonts/Roboto-BlackItalic.ttf
+SHA1-Digest-Manifest: AKWLMQmEkzlHwmEce39u9TkDGpI=
+
+Name: system/fonts/Roboto-Thin.ttf
+SHA1-Digest-Manifest: 4t5wtzz0xzbalqB+tM4Xlt3LqBg=
+
+Name: system/fonts/RobotoCondensed-Italic.ttf
+SHA1-Digest-Manifest: ZLY4BTOm+ZMN9qA9T8of0Wd8wuc=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: system/fonts/Roboto-Light.ttf
+SHA1-Digest-Manifest: zKpyKgcfCncn5mQWOQHWmgAs3X0=
+
+Name: config.sh
+SHA1-Digest-Manifest: l1KmCp2QlCQHBnX8WIb1iPMeTdc=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: system/fonts/Roboto-ThinItalic.ttf
+SHA1-Digest-Manifest: YkZaW1qlWz/feDWsHvbnxnD/DzI=
+
+Name: system/fonts/Roboto-Medium.ttf
+SHA1-Digest-Manifest: g50LJgF5+bbctSAbz7jlwgPgPhs=
+
+Name: system/fonts/RobotoCondensed-LightItalic.ttf
+SHA1-Digest-Manifest: NC8LDcoK6AIW8/NgRRCJP/DxqPs=
+
+Name: system/fonts/Roboto-Black.ttf
+SHA1-Digest-Manifest: MutNnVKGnUHAeQvPrzCoxec/+2U=
+
+Name: system/fonts/RobotoCondensed-Regular.ttf
+SHA1-Digest-Manifest: 4Aj03LK/Y2r0qyEVw7d23tvdaes=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: s28YMQUeQ4bqgK1UB4Sr/4f/pEQ=
+
+Name: system/fonts/Roboto-BoldItalic.ttf
+SHA1-Digest-Manifest: Nk/JpZlbeE7sQHCAt8hvUKTYGBc=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: system/fonts/RobotoCondensed-BoldItalic.ttf
+SHA1-Digest-Manifest: +xk6ByBz/mFC5AQbL//oI4FRa20=
+
+Name: system/fonts/Roboto-LightItalic.ttf
+SHA1-Digest-Manifest: v+JsGSfn7TswEKU6FkuMQ5+QY8w=
+
+Name: README.md
+SHA1-Digest-Manifest: l9jkT87PoXqlHrS60SaWIgDfavA=
+
+Name: system/fonts/Roboto-Italic.ttf
+SHA1-Digest-Manifest: SeLJOFTRwAb5rqq4aj+XyMUDfUw=
+
+Name: module.prop
+SHA1-Digest-Manifest: kuKTmInJx5ogQPyoqgmuTT1bqEI=
+
+Name: system/fonts/Roboto-Bold.ttf
+SHA1-Digest-Manifest: Ix94wyb15lYvLcgfus6YwBGZ0Rc=
+
+Name: system/fonts/Roboto-Regular.ttf
+SHA1-Digest-Manifest: YKKSEfB80XOhRzpcYVzV+vdYy1o=
+
+Name: system/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest-Manifest: lpLzEVXIA7ApmQ67fu4Yic84Bn0=
+
+Name: system/fonts/RobotoCondensed-Bold.ttf
+SHA1-Digest-Manifest: bc+KO86/2kdO/bRdtrxe/SIGYUI=
+
