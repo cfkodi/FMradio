@@ -35,9 +35,6 @@ REPLACE_EXAMPLE="
 # Construct your own list here
 REPLACE="
 /system/priv-app/FM2
-/system/lib
-/system/framework
-/system/etc/permissions
 "
 
 ##########################################################################################
